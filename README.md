@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Meeting Room Booking Agent
+
+## Purpose
+
+I've created this app with the purpose of allowing users to book out a meeting room within their office space. Extremely limited for time between trimesters, the app is in it's infant stages and has no backend capabilities. On coming back to the applications development in the future, I'd like to add authentication for administrators (Probably using hashing) and some backend functionality using Python code that sends email notifications when a booking is made.
+
+## React Standard README.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
